@@ -1,3 +1,3 @@
-# AsimJ Demos
+# Useful and Interesting Demos
 
 Exploring demo ideas.
