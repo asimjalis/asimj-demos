@@ -1,2 +1,3 @@
-# asimj-demos
-Building and releasing demos in public
+# AsimJ Demos
+
+Exploring demo ideas.
