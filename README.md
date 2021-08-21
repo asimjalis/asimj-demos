@@ -1,3 +1,3 @@
 # Useful and Interesting Demos
 
-Exploring demo ideas.
+Exploring interesting demo ideas.
